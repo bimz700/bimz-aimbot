@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://whatsapp.com/channel/LINK_CHANNEL_KAMU",
+      "permanent": false
+    }
+  ]
+}
